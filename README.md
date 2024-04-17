@@ -103,6 +103,6 @@ I'm Mohamed Gouda, I’m a passionate web developer based in Cairo, Egypt. My jo
 
 
 <div align="center">
-<img src="[https://github.com/Gouda01/gouda01/blob/main/Web%20Development.jpg](https://github.com/Gouda01/gouda01/blob/main/snake.svg)" align="center" style="width: 100%" />
+<img src="https://github.com/Gouda01/gouda01/blob/main/snake.svg" align="center" style="width: 100%" />
 </div>
 
