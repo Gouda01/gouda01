@@ -101,3 +101,8 @@ I'm Mohamed Gouda, I’m a passionate web developer based in Cairo, Egypt. My jo
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gouda01&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+<div align="center">
+<img src="[https://github.com/Gouda01/gouda01/blob/main/Web%20Development.jpg](https://github.com/Gouda01/gouda01/blob/main/snake.svg)" align="center" style="width: 100%" />
+</div>
+
